@@ -1,0 +1,38 @@
+{
+  "entity.godzilla.ambient": {
+    "subtitle": "subtitles.godzilla.ambient",
+    "sounds": [
+      {
+        "name": "godzilla:entity/godzilla/ambient",
+        "stream": false
+      }
+    ]
+  },
+  "entity.godzilla.hurt": {
+    "subtitle": "subtitles.godzilla.hurt",
+    "sounds": [
+      {
+        "name": "godzilla:entity/godzilla/hurt",
+        "stream": false
+      }
+    ]
+  },
+  "entity.godzilla.death": {
+    "subtitle": "subtitles.godzilla.death",
+    "sounds": [
+      {
+        "name": "godzilla:entity/godzilla/death",
+        "stream": false
+      }
+    ]
+  },
+  "entity.godzilla.step": {
+    "subtitle": "subtitles.godzilla.step",
+    "sounds": [
+      {
+        "name": "godzilla:entity/godzilla/step",
+        "stream": false
+      }
+    ]
+  }
+}

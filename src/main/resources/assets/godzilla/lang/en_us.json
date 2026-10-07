@@ -1,0 +1,23 @@
+{
+  "itemGroup.godzilla": "Godzilla Mod",
+  "item.godzilla.g_cell": "G-Cell",
+  "item.godzilla.godzilla_bone": "Godzilla Bone",
+  "item.godzilla.godzilla_skull": "Godzilla Skull",
+  "item.godzilla.platinum_ingot": "Platinum Ingot",
+  "item.godzilla.bottle_of_oxygen": "Bottle of Oxygen",
+  "item.godzilla.micro_oxygen_cell": "Micro-Oxygen Cell",
+  "item.godzilla.micro_oxygen_ball": "Micro-Oxygen Ball",
+  "item.godzilla.oxygen_destroyer": "Oxygen Destroyer",
+  "item.godzilla.g_sword": "G-Sword",
+  "item.godzilla.g_helmet": "G-Helmet",
+  "item.godzilla.g_chestplate": "G-Chestplate",
+  "item.godzilla.g_leggings": "G-Leggings",
+  "item.godzilla.g_boots": "G-Boots",
+  "item.godzilla.godzilla_spawn_egg": "Godzilla Spawn Egg",
+  "block.godzilla.platinum_ore": "Platinum Ore",
+  "entity.godzilla.godzilla": "Godzilla",
+  "subtitles.godzilla.ambient": "Godzilla roars",
+  "subtitles.godzilla.hurt": "Godzilla is hurt",
+  "subtitles.godzilla.death": "Godzilla dies",
+  "subtitles.godzilla.step": "Godzilla stomps"
+}

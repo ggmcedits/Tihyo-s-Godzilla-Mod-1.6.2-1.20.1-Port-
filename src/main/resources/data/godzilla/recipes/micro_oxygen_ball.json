@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "PMP",
+    "MMM",
+    "PMP"
+  ],
+  "key": {
+    "M": {
+      "item": "godzilla:micro_oxygen_cell"
+    },
+    "P": {
+      "item": "godzilla:platinum_ingot"
+    }
+  },
+  "result": {
+    "item": "godzilla:micro_oxygen_ball",
+    "count": 1
+  }
+}

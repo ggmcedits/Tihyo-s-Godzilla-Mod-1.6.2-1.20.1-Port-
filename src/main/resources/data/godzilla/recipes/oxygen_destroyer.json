@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    " P ",
+    "PBP",
+    " P "
+  ],
+  "key": {
+    "P": {
+      "item": "godzilla:platinum_ingot"
+    },
+    "B": {
+      "item": "godzilla:micro_oxygen_ball"
+    }
+  },
+  "result": {
+    "item": "godzilla:oxygen_destroyer",
+    "count": 1
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "godzilla:item/oxygen_destroyer"
+  }
+}

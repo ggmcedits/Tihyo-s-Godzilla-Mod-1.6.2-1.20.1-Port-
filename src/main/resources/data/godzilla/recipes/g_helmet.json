@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "GGG",
+    "G G"
+  ],
+  "key": {
+    "G": {
+      "item": "godzilla:g_cell"
+    }
+  },
+  "result": {
+    "item": "godzilla:g_helmet",
+    "count": 1
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": {
+    "item": "godzilla:bottle_of_oxygen"
+  },
+  "result": "godzilla:micro_oxygen_cell",
+  "experience": 20.0,
+  "cookingtime": 200
+}
